@@ -1,4 +1,4 @@
-## Sistema simples de acesso a conta bancária
+## Sistema de Criação de Conta Bancária e Depósito
 
 ENG: System for creating a bank account, making deposits, and viewing the remaining balance.
 
